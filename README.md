@@ -1,2 +1,2 @@
-# guess_the_numbre
-This game make you can guess the num which the computer is choose.
+# Palindrome Checker
+This game make you check if your word or sen is Palindrome or no.
